@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - ground
+  - coin
+  - coins
+  - Ground
+  - Enemy
+  - cheackpoint
+  - Checkpoint
+  - Cheackpoint
+  - enemy
+  - DeathCollider
+  - lvk
+  - lvk1
+  - Checkpoint1
+  - DeathCollider1
+  - Score
+  - lastFinish
+  - lader
+  - Ladder
+  - Cheackpoint2
+  - lastLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Lader
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
